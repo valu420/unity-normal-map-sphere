@@ -11,7 +11,6 @@ A Unity activity that shows how a **normal map** changes the way light interacts
 
 ## Requirements
 
-- Unity 2022.3 LTS or newer (replace with the version you used)
+- Unity 2022.3 LTS or newer 6000.6.6f1
 - Git
-- GIMP (only if you want to recreate the normal map)
 
